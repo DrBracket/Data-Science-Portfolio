@@ -23,7 +23,7 @@ Tech Stack:
     - Pandas
     - Seaborn
 
-
+---
 - [The Android App Market on Google Play](https://github.com/DrBracket/DS-DA-Case-Studies/tree/main/The%20Android%20App%20Market%20on%20Google%20Play)
   -  Data Manipulation
   -  Data Visualization
