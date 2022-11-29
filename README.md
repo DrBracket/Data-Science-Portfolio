@@ -13,9 +13,9 @@ Tech Stack:
 
 ---
 #### [Food Consumption Analysis - Hypothesis Testing](https://github.com/DrBracket/Data-Science-Portfolio/tree/main/Food%20Consumption%20Analysis%20-%20Hypothesis%20Testing)
-ENG: In this project we'll use SQL to clean, process and analyze a database containing information on astronaut extra vehicular activities (EVAs).
+ENG: In this project we will analyze some indices related to the consumption of some food categories. We will also use a Permutation Test to check if the average consumption of a category is statistically significant
 
-ITA: In questo progetto useremo SQL per pulire, elaborare e analizzare un database contenente informazioni sulle attività extra veicolari degli astronauti (EVA).
+ITA: In questo progetto analizzeremo alcuni indici relativi al consumo di alcune categorie di cibo. Inoltre, utilizzeremo un Permutation Test per verificare se il consumo medio di una categoria è statisticamente significativo.
 
 Tech Stack:
   - Python
