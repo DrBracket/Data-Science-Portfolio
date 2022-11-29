@@ -21,10 +21,10 @@ ENG: In this project we will analyze some indices related to the consumption of 
 ITA: In questo progetto analizzeremo alcuni indici relativi al consumo di alcune categorie di cibo. Inoltre, utilizzeremo un Permutation Test per verificare se il consumo medio di una categoria è statisticamente significativo.
 
 Tech Stack:
-  - Python
+  - Python <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" />
     - Numpy
-    - Pandas
-    - Seaborn
+    - Pandas <img align="left" alt="Pandas" width="26px" src="https://pandas.pydata.org/static/img/pandas_secondary.svg" />
+    - Seaborn <img align="left" alt="Seaborn" width="26px" src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png" />
 
 ---
 #### [Indian Jobs and Startups Research](https://github.com/DrBracket/Data-Science-Portfolio/tree/main/Indian%20Jobs%20and%20Startups%20Research)
@@ -35,7 +35,7 @@ ENG: In this project, divided into two notebooks, we will carry out an explorato
 ITA: In questo progetto, suddiviso in due notebook,  effettueremo una analisi esplorativa delle posizioni lavorative Indiane analizzando i relativi salari convertiti in USD tramite una Open API.
 
 Tech Stack:
-  - Python
+  - Python <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" />
     - Numpy
     - Pandas
     - BeautifulSoup (Web Scraping)
@@ -51,7 +51,7 @@ ENG: In this project we are going to analyze some indicators of the states of th
 ITA: In questo progetto andiamo ad analizzare alcuni indicatori degli stati del mondo, con particolare attenzione alla "happiness_score" (il punteggio che indica quanto è felice la popolazione). Effettuando anche una regressione lineare per prevedere l'aspettativa di vita.
 
 Tech Stack:
-  - Python
+  - Python <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" />
     - Numpy
     - Pandas
     - Seaborn
