@@ -1,7 +1,6 @@
 # Data-Science-Portfolio
 
 ## Projects
----
 #### [Exploring Astronaut Activities](https://github.com/DrBracket/Data-Science-Portfolio/tree/main/Exploring%20Astronaut%20Activities)
 
 ##### Info
